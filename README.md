@@ -23,5 +23,5 @@
       repository of your choosing.
 
 ## Notes:
-      As this is one of the first times trying my hand at JavaScript, displaying individual articles in the modal didn't work out very well. 
-      The part of the modal that didn't work out was commented out from the CSS and JavaScript files.
+      As this is one of the first times trying my hand at JavaScript, displaying individual articles in the modal 
+      didn't work out very well. The part of the modal that didn't work out was commented out in the CSS and JavaScript files.
